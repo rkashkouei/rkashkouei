@@ -18,9 +18,10 @@
 
 ---
 # Certifications
+### AWS Academy Graduate – Cloud Foundations
+[![AWS Academy Graduate - Cloud Foundations](https://www.credly.com/badges/7af4dea0-dfe2-41bd-a4d2-d02c0ea326a3/public_url)
 
-[![AWS Academy Graduate - Cloud Foundations](IMAGE_URL)](BADGE_URL)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7af4dea0-dfe2-41bd-a4d2-d02c0ea326a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7af4dea0-dfe2-41bd-a4d2-d02c0ea326a3" data-share-badge-host="https://www.credly.com"></div>
 
 ---
 ## 📌 Current Projects
