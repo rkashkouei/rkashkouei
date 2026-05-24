@@ -21,8 +21,9 @@
 
 ### AWS Academy Graduate – Cloud Foundations
 
-[![AWS Academy Graduate - Cloud Foundations](https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)](https://www.credly.com/badges/7af4dea0-dfe2-41bd-a4d2-d02c0ea326a3/public_url)
-
+<a href="https://www.credly.com/badges/7af4dea0-dfe2-41bd-a4d2-d02c0ea326a3/public_url">
+  <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="180">
+</a>
 Completed AWS Academy Cloud Foundations training covering core cloud computing concepts and hands-on experience with AWS services including EC2, IAM, VPC, Lambda, EBS, and cloud infrastructure fundamentals.
 ---
 ## 📌 Current Projects
