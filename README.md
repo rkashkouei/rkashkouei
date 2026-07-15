@@ -87,12 +87,5 @@ A Python command-line application that retrieves product data from the OpenFoodF
 - LinkedIn: https://www.linkedin.com/in/rezakashkouei/
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkashkouei&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkashkouei&layout=compact&theme=github_dark" height="170"/>
-</p>
----
 
 ⭐ Always learning, always building — one project at a time.
