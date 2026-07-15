@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza Kashkouei</h1>
-<h3 align="center">Software Engineering Master's Student in Germany 🇩🇪 | Backend Developer (Node.js) Learner</h3>
+<h3 align="center">
+Software Engineering Master's Student 🇩🇪 | Backend & IoT Developer | Node.js • Python • M5Stack
+</h3>
 
 ---
 
@@ -8,7 +10,8 @@
 - 🎓 Master's student in Software Engineering in Germany
 - 💻 Currently learning Backend Development with Node.js, Express, and Python
 - 🔥 Building real backend projects and growing my GitHub portfolio
-- 🎯 Goal: Become a professional Backend Developer in Germany
+- 📚 Currently improving my German language skills (B1 → B2)
+- 🎯 Goal: Become a Backend Software Engineer in Germany while continuing to explore IoT and cloud technologies
 
 ---
 
@@ -28,27 +31,55 @@
 Completed AWS Academy Cloud Foundations training covering core cloud computing concepts and hands-on experience with AWS services including EC2, IAM, VPC, Lambda, EBS, and cloud infrastructure fundamentals.
 
 ---
-## 📌 Current Projects
+## 📌 Featured Projects
 
-### ✅ Student Task Manager API
-A REST API built with Node.js and Express.
+### 🚀 Smart Study & Focus Assistant (IoT)
 
-Features:
-- Create tasks
-- Read tasks
-- Update tasks
-- Delete tasks
+An IoT-based smart study assistant developed using **M5Stack Core2** and **UIFlow** as part of my Internet of Things course at Hof University of Applied Sciences.
 
-### ✅ OpenFoodFacts Web Scraper
-A Python web scraping project that collects product information from the OpenFoodFacts platform.
+**Highlights**
+- Focus Score calculation
+- PIR, IMU and ENV sensor integration
+- JSON logging to SD card
+- Motivational Quotes API
+- Wi-Fi & EZData integration
+- Interactive GUI
+- University project
 
-Features:
-- Sends HTTP requests using Python
-- Extracts and processes product data
-- Uses retry strategies for more stable requests
-- Demonstrates backend data collection and automation skills
+🔗 https://github.com/rkashkouei/smart-study-focus-assistant-iot
 
 ---
+
+### 🚀 Student Task Manager API
+
+A RESTful API built with **Node.js** and **Express.js** for managing student tasks.
+
+**Highlights**
+
+- CRUD operations
+- Duplicate title validation
+- Task priority system
+- Created/Updated timestamps
+- Clean REST architecture
+
+🔗 https://github.com/rkashkouei/student-task-manager-api
+
+---
+
+### 🚀 OpenFoodFacts Product Scraper
+
+A Python command-line application that retrieves product data from the OpenFoodFacts public API.
+
+**Highlights**
+
+- API integration
+- Retry strategy
+- Progress bar
+- Brand filtering
+- JSON export
+- Search duration measurement
+
+🔗 https://github.com/rkashkouei/openfoodfacts-scraper
 
 ## 📫 Connect With Me
 
@@ -57,4 +88,4 @@ Features:
 
 ---
 
-⭐ Currently focused on becoming a strong Backend Developer.
+⭐ Always learning, always building — one project at a time.
