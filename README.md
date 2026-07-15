@@ -80,7 +80,9 @@ A Python command-line application that retrieves product data from the OpenFoodF
 - Search duration measurement
 
 🔗 https://github.com/rkashkouei/openfoodfacts-scraper
+
 ---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/rkashkouei
