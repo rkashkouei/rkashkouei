@@ -83,6 +83,21 @@ A Python command-line application that retrieves product data from the OpenFoodF
 
 ---
 
+🚀 RAG PDF Chatbot
+A local Retrieval-Augmented Generation (RAG) chatbot built with Python, LangChain, Chroma and Ollama that answers questions about your own PDF files.
+Highlights
+Runs fully offline: no API keys, no cost, documents never leave your machine
+PDF loading and text extraction
+Text chunking for precise retrieval
+Embeddings with `nomic-embed-text` stored in a Chroma vector database
+Local LLM (`llama3.2`) via Ollama
+Answers grounded only in the retrieved PDF context
+Source citations in answers
+Centralized configuration with `.env` support
+🔗 https://github.com/rkashkouei/rag-pdf-chatbot
+---
+
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/rkashkouei
